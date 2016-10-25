@@ -1,0 +1,6 @@
+region = "europe-west1"
+zone = "europe-west1-c"
+project_name = "infect-testing"
+credentials_file_path = "~/.gcloud/infect-testing-ca2140cb79ea.json"
+public_key_path = "~/.ssh/gcloud_id_rsa.pub"
+private_key_path = "~/.ssh/gcloud_id_rsa"
